@@ -1,6 +1,6 @@
 # LokiCheckout_No
 
-**This Magento 2 module is an add-on package for the country `No`.
+**This Magento 2 module is an add-on package for Norway.**
 
 ## Installation
 Install this package via composer:

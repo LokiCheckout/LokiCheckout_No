@@ -31,7 +31,7 @@
 
         <referenceBlock name="loki-checkout.shipping.address.region">
             <arguments>
-                <argument name="field_label" xsi:type="string" translate="true">State</argument>
+                <argument name="field_label" xsi:type="string" translate="true">County</argument>
             </arguments>
         </referenceBlock>
 
@@ -65,7 +65,7 @@
 
         <referenceBlock name="loki-checkout.billing.address.region">
             <arguments>
-                <argument name="field_label" xsi:type="string" translate="true">State</argument>
+                <argument name="field_label" xsi:type="string" translate="true">County</argument>
             </arguments>
         </referenceBlock>
     </body>
